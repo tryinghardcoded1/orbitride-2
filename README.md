@@ -3,7 +3,7 @@
 </div>
 
 
-## Inway
+## Orbit Ridez for client app
 Inway is an app inspired by Uber, designed to provide a similar ride-hailing experience. With Inway, users can easily request rides, track their drivers, and reach their destinations conveniently. The app leverages the power of Google Maps to display real-time locations and optimize route navigation. It also utilizes Firebase as the backend to enable seamless phone-based signup and comprehensive profile management.
 ## Features
 
@@ -50,12 +50,7 @@ https://drive.google.com/file/d/1LlRomLglmDzTMiLT8rLqrJO-vXvtLr_n/view?usp=shari
 ## Contact 
   
  If you have any questions or suggestions, feel free to reach out: 
-    
- - Email: [mohamedmostafa5380@gmail.com](mailto:mohamedmostafa5380@gmail.com) 
- - LinkedIn: [Send offer](https://www.linkedin.com/in/mohamed-mostafa-a88328190) 
- - facebook: [Mohamed Mostafa](https://www.facebook.com/profile.php?id=100022707412139&mibextid=ZbWKwL)
- - WahtsApp: [Send Messege](https://wa.me/01551022078/?text=Hello)
-
+cvcreatoion@gmail.com
 
 
 
